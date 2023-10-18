@@ -7,3 +7,5 @@ Refer here for other "FACE RECOGNITION-Opencv" based project:
 - https://github.com/Ankit-saha-iiitbbsr/face-recognition-opencv
 - https://github.com/Ankit-saha-iiitbbsr/face-identification-opencv
 - https://github.com/Ankit-saha-iiitbbsr/generate-image-dataset-opencv
+
+## Main Repository: https://github.com/Ankit-saha-iiitbbsr/CODSOFT
