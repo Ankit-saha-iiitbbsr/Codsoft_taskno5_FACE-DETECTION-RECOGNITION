@@ -1,5 +1,5 @@
 # Codsoft_taskno5_FACE-DETECTION-RECOGNITION
-## FACE RECOGNITION AI USING OPENCV
+## FACE DETECTION & RECOGNITION AI USING OPENCV
 
 ## Note
 For the "FACE RECOGNITION AI" project download the zip folder from the repository.
