@@ -7,7 +7,7 @@
 -  Run the testmodel.py file to open the camera frame and see the output of the trained model.
 -  For the "FACE RECOGNITION AI" project download the zip folder from the repository and extract all the files.
 
-**DEMO:** https://www.linkedin.com/feed/update/urn:li:activity:7120830641138528256/
+**DEMO:** https://www.linkedin.com/feed/update/urn:li:activity:7120830641138528256/?originTrackingId=AY6d13tbSi%2BZ2Db7b0U9Bw%3D%3D
 
 ### Refer here for other "FACE RECOGNITION-Opencv" based project:
 - https://github.com/Ankit-saha-iiitbbsr/face-recognition-opencv
